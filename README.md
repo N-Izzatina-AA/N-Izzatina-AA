@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nor Izzatina Abdul Aziz or (@N-Izzatina-AA)
 - I'm an academic staff at the National University of Malaysia. 
 - 👀 I’m interested in behavioural economics, development economics and public economics.
-- 🌱 I’m currently learning oTree. 
+- 🌱 I'm using this for oTree (lab experiments). 
 - 📫 How to reach me is at izzatina.aziz@ukm.edu.my
 
 <!---
